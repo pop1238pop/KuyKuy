@@ -1,8 +1,9 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 😄 My name is: Hattakorn songchan
+- ⚡ Student id: 63367230
+- 🔭 I'm currently studying on Faculty of Computer Engineering.
+-  ♥ Career interest in the future : java Developer.
 
 ## Developer Tech
 
@@ -56,3 +57,7 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+## Fav Subject
+- [x] Database
+- [x] Computer Network 
+- [ ] Operating systems
